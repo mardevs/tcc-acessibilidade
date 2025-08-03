@@ -1,0 +1,152 @@
+{
+  "UFPA": {
+    "nao aceitaveis":{
+      "AAA":{
+        "antes":["G141"],
+        "depois":["G141","F84","G17"]  
+      },
+      "AA":{
+        "antes":[],
+        "depois":[]
+      },
+      "A":{
+        "antes":["G1","G162","H64","G91"],
+        "depois":["G162","H64"]
+      }
+    },
+    "revisao manual":{
+      "AAA":{
+        "antes":["G17","G141","F84"],
+        "depois":["G17","F84"]
+      },
+      "AA":{
+        "antes":[],
+        "depois":[]
+      },
+      "A":{
+        "antes":["H45","G123","H57"],
+        "depois":[]
+      }
+    }
+  },
+  "UFPB": {
+    "nao aceitaveis":{
+      "AAA":{
+        "antes":[],
+        "depois":["G17","G141"]
+      },
+      "AA":{
+        "antes":["G145"],
+        "depois":["G145"]
+      },
+      "A":{
+        "antes":["F65","F89","G1","H57","G91"],
+        "depois":["F65","F89","G1","H57","G91"]
+      }
+    },
+    "revisao manual":{
+      "AAA":{
+        "antes":["G17","G141"],
+        "depois":["G17","G141"]
+      },
+      "AA":{
+        "antes":[],
+        "depois":[]
+      },
+      "A":{
+        "antes":[],
+        "depois":[]
+      }
+    }    
+  },
+  "UFMS": {
+    "nao aceitaveis":{
+      "AAA":{
+        "antes":["G141"],
+        "depois":["G141","G17"]
+      },
+      "AA":{
+        "antes":["H48","G145"],
+        "depois":["G145"]
+      },
+      "A":{
+        "antes":["H93","H57","F65","H33","H2","G1"],
+        "depois":["H57","F65","H33","G1"]
+      }
+    },
+    "revisao manual":{
+      "AAA":{
+        "antes":["F84","G141","G17"],
+        "depois":["G17"]
+      },
+      "AA":{
+        "antes":[],
+        "depois":[]
+      },
+      "A":{
+        "antes":["C123","C9"],
+        "depois":[]
+      }
+    }    
+  },
+  "UFRJ": {
+    "nao aceitaveis":{
+      "AAA":{
+        "antes":[],
+        "depois":["G17"]
+      },
+      "AA":{
+        "antes":["G145","674b10"],
+        "depois":["G145"]
+      },
+      "A":{
+        "antes":["G1","G162","SCR20","F59","5c01ea","G91"],
+        "depois":["SCR20","F59","G123"]
+      }
+    },
+    "revisao manual":{
+      "AAA":{
+        "antes":["G141","G17"],
+        "depois":["G17"]
+      },
+      "AA":{
+        "antes":["F24"],
+        "depois":[]
+      },
+      "A":{
+        "antes":["H45","G123","H57"],
+        "depois":["G123"]
+      }
+    }    
+  },
+  "UFSM": {
+    "nao aceitaveis":{
+      "AAA":{
+        "antes":["G141"],
+        "depois":["G141","F84"]
+      },
+      "AA":{
+        "antes":["G145","ARIA11","ARIA11","ARIA11"],
+        "depois":["ARIA11"]
+      },
+      "A":{
+        "antes":["H33","H48","G162","6cfa84","G91"],
+        "depois":["H33","6cfa84","G1","G123"]
+      }
+    },
+    "revisao manual":{
+      "AAA":{
+        "antes":["F84","G141","G17"],
+        "depois":["F84"]
+      },
+      "AA":{
+        "antes":[],
+        "depois":[]
+      },
+      "A":{
+        "antes":["G1","G123","H57"],
+        "depois":["G1","G123"]
+      }
+    }    
+  }
+}
